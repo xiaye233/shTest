@@ -5,7 +5,8 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git! master
+Hello git! master and hot-fix
+>>>>>>> hot-fix
 Hello git!
 Hello git! ****
 xiaye daodi yi you
